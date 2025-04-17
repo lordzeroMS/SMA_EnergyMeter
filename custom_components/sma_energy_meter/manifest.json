@@ -1,11 +1,12 @@
 {
   "domain": "sma_energy_meter",
   "name": "SMA Energy Meter",
-  "version": "1.0.0",
-  "documentation": "https://github.com/your_username/sma_energy_meter",
+  "version": "0.1.0",
+  "documentation": "https://github.com/lordzeroms/sma_energy_meter",
+  "issue_tracker": "https://github.com/lordzeroms/sma_energy_meter/issues",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@your_github_username"],
+  "codeowners": ["@lordzeroms"],
   "iot_class": "local_polling",
-  "config_flow": false
+  "config_flow": true
 }

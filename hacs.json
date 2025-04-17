@@ -1,0 +1,8 @@
+{
+  "name": "SMA Energy Meter",
+  "render_readme": true,
+  "domain": "sma_energy_meter",
+  "documentation": "https://github.com/lordzeroms/sma_energy_meter",
+  "issue_tracker": "https://github.com/lordzeroms/sma_energy_meter/issues",
+  "homeassistant": "2025.1.0"
+}
