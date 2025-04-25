@@ -1,12 +1,12 @@
 {
-  "domain": "sma_energy_meter",
-  "name": "SMA Energy Meter",
-  "version": "0.1.0",
-  "documentation": "https://github.com/lordzeroms/sma_energy_meter",
-  "issue_tracker": "https://github.com/lordzeroms/sma_energy_meter/issues",
-  "requirements": [],
-  "dependencies": [],
-  "codeowners": ["@lordzeroms"],
-  "iot_class": "local_polling",
-  "config_flow": true
-}
+    "domain": "sma_energy_meter",
+    "name": "SMA Energy Meter",
+    "codeowners": ["@lordzeroms"],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://github.com/lordzeroms/sma_energy_meter",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/lordzeroms/sma_energy_meter/issues",
+    "requirements": [],
+    "version": "0.1.0"
+  }
