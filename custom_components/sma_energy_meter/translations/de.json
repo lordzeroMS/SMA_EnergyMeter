@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Mit SMA Energy Meter verbinden",
+        "description": "SMA Energy Meter Integration einrichten",
+        "data": {
+          "host": "Lokale IP-Adresse zum Binden (Standard: $0.0.0.0$)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung fehlgeschlagen. Bitte überprüfen Sie die IP-Adresse.",
+      "unknown": "Unerwarteter Fehler aufgetreten"
+    },
+    "abort": {
+      "already_configured": "Gerät ist bereits konfiguriert"
+    }
+  }
+}

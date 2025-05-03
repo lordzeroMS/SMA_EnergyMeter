@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connexion au SMA Energy Meter",
+        "description": "Configurer l'intégration SMA Energy Meter",
+        "data": {
+          "host": "Adresse IP locale à lier (par défaut: 0.0.0.0)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Échec de connexion. Veuillez vérifier l'adresse IP.",
+      "unknown": "Une erreur inattendue s'est produite"
+    },
+    "abort": {
+      "already_configured": "L'appareil est déjà configuré"
+    }
+  }
+}
